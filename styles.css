@@ -14,3 +14,17 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+input, button {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+}
